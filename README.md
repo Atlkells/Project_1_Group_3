@@ -2,10 +2,10 @@
 Project_1_Group_3
 
 Classmates in Group 3 are:
-Cory Lingerfelt
-Gregory Smith
-Kelly Carter
-Sara Kleine-Kracht
+Cory Lingerfelt,
+Gregory Smith,
+Kelly Carter,
+Sara Kleine-Kracht,
 
 # Project Overview
 
@@ -18,24 +18,38 @@ We merged two simulated csv datasets of fraudulent credit card transactions. The
 The columns we performed our analysis on are:
 
   Trans_date_trans_time: Displays the date and time of the transaction
+  
   Category: The transaction category (gas and transport, home, entertainment, etc.)
+  
   Amt: The total amount (in USD) of the transaction
+  
   Gender: The gender (M/F) of the victim
+  
   City: The city where the transaction occurred
+  
   State: The state where the transaction occurred
+  
   Lat: The latitude where the transaction occurred
+  
   Long: The longitude where the transaction occurred
+  
   City_pop: The population of the city where the transaction occurred
+  
   Dob: The date of birth of the victim
+  
   Merch_lat: The latitude where the fraudulent merchant is located
+  
   Merch_long: the longitude where the fraudulent merchant is located
 
 # Research Questions
 
-•	How does geography affect fraudulent transactions?
-•	How does victim demographic impact the frequency of fraudulent transactions?
-•	How is the frequency of fraudulent transactions impacted by merchant category?
-•	How does timing impact frequency of fraudulent transactions?
+How does geography affect fraudulent transactions?
+
+How does victim demographic impact the frequency of fraudulent transactions?
+
+How is the frequency of fraudulent transactions impacted by merchant category?
+
+How does timing impact frequency of fraudulent transactions?
 
 # Communication Protocols
 
