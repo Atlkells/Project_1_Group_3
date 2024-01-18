@@ -55,13 +55,23 @@ How does timing impact frequency of fraudulent transactions?
 
 In order to update each other on the status of our individual parts of the project we established frequent communication through Slack and Zoom meetings.
 
-
 # Data Tools Used
 
 We used jupyter notebook, pandas, and python libraries to clean, analyze, and visualize the data. 
 
 # Results
 
+How does geography affect fraudulent transactions?
+
+How does victim demographic impact the frequency of fraudulent transactions?
+
+How is the frequency of fraudulent transactions impacted by merchant category?
+
+When analyzing the category types from the fraud dataset, we wanted to find the category that had the highest number of fraudulent transactions and which category accounted for the highest amount of loss
+Gas and Transport was the merchant category with the highest frequency of fraudulent credit card transactions. Travel was the merchant category with the lowest frequency of fraudulent credit card transactions. The Grocery (In Store) category accounted for the highest dollar amount lost through fraudulent transactions with $107,104.88. The Grocery (Online) category had the lowest total loss in dollars with $18,965.07.
+
+
+How does timing impact frequency of fraudulent transactions?
 
 
 # Presentation Link
