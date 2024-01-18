@@ -128,7 +128,7 @@ Our analysis is just scratching the surface of credit card fraud, but the discre
 
 # Presentation Link
 
-The link to the slide deck is: 
+The link to the slide deck is: https://docs.google.com/presentation/d/1yHLMCYSU1Mfhi1vYFxGED0zgqLm35ZsSChHIjSObYrk/edit#slide=id.p3
 
 
 
