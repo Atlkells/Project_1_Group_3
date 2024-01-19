@@ -15,7 +15,7 @@ In this project, we analyzed fraudulent credit card transaction data to measure 
 
 We merged two simulated csv datasets of fraudulent credit card transactions. The merged dataset had close to 500,000 entries so we pulled a random sample of 10,000 transactions to analyze. We cleaned the data and removed unneccesary columns. We converted the base dataframe of the cleaned sample data to a csv which was utilized in each team members' code to ensure we were all using the same sample. 
 
-fraudTest.csv was sourced from Kaggle and is a simulated credit card transaction dataset containing legitimate and fraud transactions from the duration 1st Jan 2019 - 31st Dec 2020. It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants. This was generated using Sparkov Data Generation | Github tool created by Brandon Harris. (https://www.kaggle.com/datasets/kartik2112/fraud-detection). It contains 
+fraudTest.csv was sourced from Kaggle and is a simulated credit card transaction dataset containing fraudulent transactions from the duration 1st Jan 2019 - 31st Dec 2020. It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants. This was generated using Sparkov Data Generation | Github tool created by Brandon Harris. (https://www.kaggle.com/datasets/kartik2112/fraud-detection). It contains 
 
 
 
