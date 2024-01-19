@@ -17,7 +17,7 @@ We merged two simulated csv datasets of fraudulent credit card transactions. The
 
 fraudTest.csv was sourced from Kaggle and is a simulated credit card transaction dataset containing fraudulent transactions from the duration 1st Jan 2019 - 31st Dec 2020. It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants. The transactions are from the United States. This was generated using Sparkov Data Generation | Github tool created by Brandon Harris. (https://www.kaggle.com/datasets/kartik2112/fraud-detection).
 
-credit_card_fraud.csv was sourced from DataCamp and consists of fraudulent credit card transactions from the Western US. https://app.datacamp.com/workspace/w/31076590-9fe3-44f6-abe4-425f0cc3ee96/edit
+credit_card_fraud.csv was sourced from DataCamp and consists of simulated fraudulent credit card transactions from the Western US. https://app.datacamp.com/workspace/w/31076590-9fe3-44f6-abe4-425f0cc3ee96/edit
 
 
 We merged the datasets using "outer" and on the columns below:
