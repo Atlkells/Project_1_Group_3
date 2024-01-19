@@ -19,7 +19,7 @@ fraudTest.csv was sourced from Kaggle and is a simulated credit card transaction
 
 
 
-The columns we performed our analysis on are:
+We merged the datasets using "outer" and on the columns below:
 
   Trans_date_trans_time: Displays the date and time of the transaction
   
