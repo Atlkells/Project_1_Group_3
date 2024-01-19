@@ -19,6 +19,7 @@ fraudTest.csv was sourced from Kaggle and is a simulated credit card transaction
 
 credit_card_fraud.csv was sourced from DataCamp and consists of simulated fraudulent credit card transactions from the Western US. https://app.datacamp.com/workspace/w/31076590-9fe3-44f6-abe4-425f0cc3ee96/edit
 
+Neither dataset specifies whether it is reported fraud or machine learning. 
 
 We merged the datasets using "outer" and on the columns below:
 
