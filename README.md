@@ -67,6 +67,8 @@ We used jupyter notebook, pandas, and python libraries to clean, analyze, and vi
 
 # Results
 
+Final code is file "cc_data_analysis.ipynb" in "Analysis" folder.
+
 How does geography affect fraudulent transactions?
 
 When we looked at a heat map of the locations of fraudulent transactions, it looked like most of them were centered around the more populated parts of the country with large blank spots over the upper and western plains areas and more desertous regions of the West, and more concentrated areas in places like California and the eastern United States. There doesn't seem to be any specific populated areas that stand out as being more targeted than other populated areas.
